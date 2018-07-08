@@ -1,5 +1,4 @@
-# 软件设计文档
-## 前端web页面部分
+# 前端web设计文档
 ### 1. 概述
 该点餐系统是使用vue框架开发的移动web页面，利用vuex组件进行状态管理，axios组件进行前后端交互，使用`mint-ui`组件库实现UI。整个web应用主要包括`MainPage`、`StoreInfoPage`、`OrderPage`和`PayPage`四个主要的页面组成，每个页面又由多个vue组件组成。
 ### 2. 技术选型理由
