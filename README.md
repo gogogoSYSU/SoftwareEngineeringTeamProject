@@ -1,5 +1,6 @@
-# SoftwareEngineeringTeamProject
-综合实训文档
+## SoftwareEngineeringTeamProject
+
+> 综合实训文档
 
 所有源代码均在gogogoSYSU中
 
