@@ -19,7 +19,7 @@
 该点餐系统主要分为四个主页面，然后每个页面主要是由多个不同的组件构成的
 
   ![](https://github.com/CZXHenry/Documents/raw/master//模块划分.png)
-  
+
 ### 5. 软件设计技术
 -该系统主要涉及`mvvm设计模式`，因为vue是一个基于`mvvc`的前端框架。以`MainPage.vue`为例，每个vue组件主要包含了`template`、`script`和`style`三大部分。
 - `template`和`style`部分主要负责的就是用户界面的显示，对应的就是`view`
